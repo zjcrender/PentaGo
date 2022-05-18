@@ -1,0 +1,9 @@
+.game-wrapper {
+  width: fit-content;
+  display: grid;
+  grid-template-rows: 400px 400px;
+  grid-template-columns: 400px 400px;
+  grid-row-gap: 4px;
+  grid-column-gap: 4px;
+  border-radius: 10px;
+}
